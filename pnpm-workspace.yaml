@@ -1,0 +1,5 @@
+packages:
+  # executables: e.g apps, services
+  - 'apps/*'
+  # libraries that are meant to be re-used
+  - 'libs/*'
